@@ -1,0 +1,2 @@
+https://medium.com/@joel_34096/k-means-clustering-for-image-classification-a648f28bdc47
+https://www.kaggle.com/lgmoneda/from-image-files-to-numpy-arrays
